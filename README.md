@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @leabei
+- 👋 Hi, I’m İrem
 - 👀 I’m interested in games and game art
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me irmeskii.7@gmail.com
 
 <!---
 leabei/leabei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
