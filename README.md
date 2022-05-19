@@ -1,6 +1,6 @@
 - 👋 Hi, I’m İrem
 - 👀 I’m interested in games and game art
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me irmeskii.7@gmail.com
 
 <!---
